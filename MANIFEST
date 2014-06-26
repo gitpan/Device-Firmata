@@ -77,5 +77,4 @@ examples/example_encoder.pl
 examples/example-onewire.pl
 examples/example-matrix-time.pl
 examples/example_DHT11.pl
-META.yml                                 Module YAML meta-data (added by MakeMaker)
-META.json                                Module JSON meta-data (added by MakeMaker)
+META.yml                                 Module meta-data (added by MakeMaker)
