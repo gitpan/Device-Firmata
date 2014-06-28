@@ -1,5 +1,5 @@
 ---
-abstract: "Perl interface to Firmata for the arduino platform."
+abstract: 'Perl interface to Firmata for the arduino platform.'
 author:
   - 'Norbert Truchsess <ntruchses@cpan.org>, amimato <amimoto>'
 build_requires:
@@ -20,4 +20,4 @@ no_index:
 requires:
   Test::More: 0
   perl: 5.006
-version: 0.59
+version: 0.60

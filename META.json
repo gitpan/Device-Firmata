@@ -1,5 +1,5 @@
 {
-   "abstract" : "Perl interface to Firmata for the arduino platform.",
+   "abstract" : "Perl interface to Firmata for the arduino platform.",
    "author" : [
       "Norbert Truchsess <ntruchses@cpan.org>, amimato <amimoto>"
    ],
@@ -38,5 +38,5 @@
       }
    },
    "release_status" : "stable",
-   "version" : "0.59"
+   "version" : "0.60"
 }
